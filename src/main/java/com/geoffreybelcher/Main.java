@@ -14,6 +14,8 @@ import ai.djl.translate.TranslateException;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 
+// Followed a tutorial online to set this up.
+
 public class Main {
     public static void main(String[] args) throws IOException, ModelException, TranslateException {
         String url = "https://github.com/awslabs/djl/raw/master/examples/src/test/resources/dog_bike_car.jpg";
