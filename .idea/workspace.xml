@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="44be2d92-ac94-4fcc-b33f-ec72c94d6fff" name="Changes" comment="Added images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/IMG_0657.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/IMG_0657.JPEG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/IMG_6170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/IMG_6170.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geoffreybelcher/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geoffreybelcher/app/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -48,6 +51,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\geoff\Documents\Implement-Object-Detection-with-PyTorch\src\main\resources" />
       <recent name="C:\Users\geoff\Documents\Implement-Object-Detection-with-PyTorch\src\images" />
     </key>
   </component>
@@ -59,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670533685050</updated>
-      <workItem from="1670533686457" duration="1759000" />
+      <workItem from="1670533686457" duration="2612000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setup.">
       <created>1670535161787</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670535408205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added images">
+      <created>1670535491220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670535491220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

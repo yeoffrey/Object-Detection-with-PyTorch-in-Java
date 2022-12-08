@@ -18,7 +18,7 @@ import java.io.IOException;
 
 public class App {
     public static void main(String[] args) throws IOException, ModelException, TranslateException {
-        String url = "https://github.com/yeoffrey/Object-Detection-with-PyTorch-in-Java/tree/master/src/images/IMG_0657.JPEG";
+        String url = "https://geoffreybelcher.com/images/geoff-skate.png";
         BufferedImage img = BufferedImageUtils.fromUrl(url);
 
         Criteria<BufferedImage, DetectedObjects> criteria =
