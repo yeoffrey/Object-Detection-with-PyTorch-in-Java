@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44be2d92-ac94-4fcc-b33f-ec72c94d6fff" name="Changes" comment="Added images">
+    <list default="true" id="44be2d92-ac94-4fcc-b33f-ec72c94d6fff" name="Changes" comment="Fixed bug.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/IMG_0657.JPEG" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/IMG_0657.JPEG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/IMG_6170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/images/IMG_6170.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geoffreybelcher/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geoffreybelcher/app/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +32,21 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\geoff\Documents\Implement-Object-Detection-with-PyTorch\src\main\resources" />
@@ -63,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670533685050</updated>
-      <workItem from="1670533686457" duration="2612000" />
+      <workItem from="1670533686457" duration="2657000" />
+      <workItem from="1670536519975" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="Basic setup.">
       <created>1670535161787</created>
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670535491220</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixed bug.">
+      <created>1670536331861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670536331861</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic setup." />
     <MESSAGE value="Added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added images" />
+    <MESSAGE value="Fixed bug." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bug." />
   </component>
 </project>
