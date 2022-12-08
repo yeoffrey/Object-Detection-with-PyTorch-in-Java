@@ -10,9 +10,9 @@ Basically I just followed a tutorial to run PyTorch in Java. Followed [this](htt
 Then run [App.java](https://github.com/yeoffrey/Object-Detection-with-PyTorch-in-Java/blob/master/src/main/java/com/geoffreybelcher/app/App.java).
 
 Output will have an error, but should say something like:  
-[
-	class: "person", probability: 0.99727, bounds: [x=0.302, y=0.109, width=0.466, height=0.884]  
-]
+`[
+	class: "person", probability: 0.99727, bounds: [x=0.302, y=0.109, width=0.466, height=0.884]
+]`
 
-You can change the image shown by changing this line in App.java
+You can change the image shown by changing the varibale `url` in [App.java](https://github.com/yeoffrey/Object-Detection-with-PyTorch-in-Java/blob/master/src/main/java/com/geoffreybelcher/app/App.java).
 `String url = "https://geoffreybelcher.com/images/geoff-skate.png";`
